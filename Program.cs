@@ -1,11 +1,19 @@
 ﻿using System;
 
+ hotfix/fix-date-format
 // Proyecto CRUD Usuarios - Programación III
 // Autor: Patricia Herrera
 // Funcionalidades:
 // - feature/login-form: implementación del formulario de inicio de sesión (validación de entrada incluida)
 // - feature/payment-api-integration: integración simulada de API de pagos
 // - feature/user-dashboard: desarrollo del panel de usuario (dashboard)
+// Cambio en feature/login-form
+// Validación de entrada del usuario implementada
+// Integración de API de pagos (simulación)
+// Desarrollo del panel de usuario (dashboard)
+
+
+ dev
 
 namespace crud_usuarios_patricia
 {
