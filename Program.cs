@@ -3,7 +3,7 @@
 // Proyecto CRUD Usuarios - Programación III
 // Autor: Patricia Herrera
 // Funcionalidades:
-// - feature/login-form: implementación del formulario de inicio de sesión
+// - feature/login-form: implementación del formulario de inicio de sesión (validación de entrada incluida)
 // - feature/payment-api-integration: integración simulada de API de pagos
 // - feature/user-dashboard: desarrollo del panel de usuario (dashboard)
 
