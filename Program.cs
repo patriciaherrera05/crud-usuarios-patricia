@@ -1,6 +1,8 @@
 ﻿using System;
 
 // Cambio en feature/login-form
+// Validación de entrada del usuario implementada
+
 
 namespace crud_usuarios_patricia
 {
