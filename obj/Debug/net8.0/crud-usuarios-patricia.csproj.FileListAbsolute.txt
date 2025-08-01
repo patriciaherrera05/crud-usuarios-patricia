@@ -1,0 +1,14 @@
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\bin\Debug\net8.0\crud-usuarios-patricia.exe
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\bin\Debug\net8.0\crud-usuarios-patricia.deps.json
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\bin\Debug\net8.0\crud-usuarios-patricia.runtimeconfig.json
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\bin\Debug\net8.0\crud-usuarios-patricia.dll
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\bin\Debug\net8.0\crud-usuarios-patricia.pdb
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.AssemblyInfoInputs.cache
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.AssemblyInfo.cs
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.dll
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\refint\crud-usuarios-patricia.dll
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.pdb
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\crud-usuarios-patricia.genruntimeconfig.cache
+C:\Users\ISMAEL\source\repos\crud-usuarios-patricia\crud-usuarios-patricia\obj\Debug\net8.0\ref\crud-usuarios-patricia.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "crud-usuarios-patricia": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
