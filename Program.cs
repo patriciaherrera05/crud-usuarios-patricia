@@ -3,6 +3,7 @@
 // Cambio en feature/login-form
 // Validación de entrada del usuario implementada
 // Integración de API de pagos (simulación)
+// Desarrollo del panel de usuario (dashboard)
 
 
 
