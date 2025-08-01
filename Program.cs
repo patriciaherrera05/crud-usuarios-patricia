@@ -2,6 +2,8 @@
 
 // Cambio en feature/login-form
 // Validación de entrada del usuario implementada
+// Integración de API de pagos (simulación)
+
 
 
 namespace crud_usuarios_patricia
